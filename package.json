@@ -1,0 +1,41 @@
+{
+    "name": "com.dimati.physics.buttons",
+    "displayName": "UI Physical Buttons",
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "unityRelease": "",
+    "description": "World buttons with interactor, physics based. Using OnTriggerEnter and OnTriggerExit for register interactions.\n  For supporting Unity_XR_Interaction_Toolkit: \n 1) Import sample. \n 2) Add #define USE_UNITY_XRI_TOOLKIT \n\n if you don't import sample with support Unity_XR_Interaction_Toolkit you can see missing ref in runtime.asmdef it's ok. It's reference for Unity_XR_Interaction_Toolkit.asmdef which in the hiden samples folder",
+    "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "keywords": [
+        "Base",
+        "XR",
+        "VR"
+    ],
+    "category": "Base",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimaTidev/World_Physics_Buttons.git"
+    },
+    "samples": [
+        {
+            "displayName": "Basic Button Data",
+            "description": "Basic Button Data",
+            "path": "Samples~/ButtonData"
+        },
+        {
+            "displayName": "Prefabs",
+            "description": "Prefabs",
+            "path": "Samples~/Prefabs"
+        },
+        {
+            "displayName": "XRI_support",
+            "description": "XRI_support",
+            "path": "Samples~/XRI_support"
+        },
+        {
+            "displayName": "Test_Scene",
+            "description": "Test_Scene",
+            "path": "Samples~/Test_Scene"
+        }
+    ]
+}

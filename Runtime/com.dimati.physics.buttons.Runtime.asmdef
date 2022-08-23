@@ -1,0 +1,16 @@
+{
+    "name": "com.dimati.physics.buttons.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01319fc352ad7c4499b2408075525ccb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
