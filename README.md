@@ -11,8 +11,8 @@
 - UI_TriggerButton.cs
   - Support standard UI TriggerEvents `onPointerEnter, onPointerExit, onPointerUp, onPointerDown`
   - Triggering by interactor
-  - Triggering when OnTriggerEnter, but you can disable `isTriggerWhenOnEnter`
-    - If you want to make Triggering by OnTriggerEnter + Button press, disable `isTriggerWhenOnEnter` and provide button press logic
+  - Triggering when OnTriggerEnter, but you can disable it by turning off `isTriggerWhenOnEnter`
+    - If you want to make Triggering by OnTriggerEnter + Button press, turn off `isTriggerWhenOnEnter` and provide button press logic
   - Toggle mode
 
 ## How to setup
