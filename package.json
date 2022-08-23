@@ -1,7 +1,7 @@
 {
     "name": "com.dimati.physics.buttons",
     "displayName": "UI Physical Buttons",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "unity": "2018.4",
     "unityRelease": "",
     "description": "World buttons with interactor, physics based. Using OnTriggerEnter and OnTriggerExit for register interactions.\n  For supporting Unity_XR_Interaction_Toolkit: \n 1) Import sample. \n 2) Add #define USE_UNITY_XRI_TOOLKIT \n\n if you don't import sample with support Unity_XR_Interaction_Toolkit you can see missing ref in runtime.asmdef it's ok. It's reference for Unity_XR_Interaction_Toolkit.asmdef which in the hiden samples folder",
